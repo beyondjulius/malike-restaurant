@@ -1,0 +1,9 @@
+# Huge Roboflow / ML training dumps — not needed for the live mockup
+assets/
+**/Ghanaian-Food*/
+
+# Local clutter
+New Text Document.txt
+.DS_Store
+Thumbs.db
+*.tmp
