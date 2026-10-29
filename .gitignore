@@ -1,9 +1,15 @@
-# Huge Roboflow / ML training dumps — not needed for the live mockup
+# Huge Roboflow / ML training dumps
 assets/
 **/Ghanaian-Food*/
+
+# Oversized raw downloads (web-sized copies kept)
+menu/wele.jpg
+menu/wele-okro.jpg
+menu/wele-plate.jpg
 
 # Local clutter
 New Text Document.txt
 .DS_Store
 Thumbs.db
 *.tmp
+pages.json
